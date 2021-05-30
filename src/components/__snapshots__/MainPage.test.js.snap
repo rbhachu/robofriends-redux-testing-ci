@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`filters Robots 1`] = `ShallowWrapper {}`;
+
+exports[`filters Robots correctly 1`] = `ShallowWrapper {}`;
+
+exports[`filters Robots correctly 2 1`] = `ShallowWrapper {}`;
+
+exports[`renders without crashing 1`] = `ShallowWrapper {}`;
